@@ -1,0 +1,7 @@
+vars = F G;
+consts = + -;
+start= F;
+rules =  F=F+F-F-F-G+F+F+F-F, G=GGG;
+angle = 90;
+length = 15;
+level = 4;
